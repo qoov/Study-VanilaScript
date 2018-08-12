@@ -25,4 +25,3 @@ Arr1.customForEach(function(elem, index) {
 function testFn() {
   console.log("Test13");
 }
-
